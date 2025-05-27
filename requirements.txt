@@ -1,6 +1,6 @@
-fastapi
-uvicorn[standard]
-ultralytics
-opencv-python
-numpy
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+ultralytics==8.3.145
+numpy==2.2.6
+opencv-python-headless==4.11.0.86
 python-multipart
